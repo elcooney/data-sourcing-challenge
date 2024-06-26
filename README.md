@@ -4,3 +4,5 @@ Module 6 Challenge
 
 
 This challenge builds off of the files provided in Bootcamp Spot. A copy of all files referenced from bootcamp spot are saved in folder "M6_Starter_Code" in the main repository. 
+
+All modified files completed for the assignment are saved in folder "ECooney Challenge 6"
